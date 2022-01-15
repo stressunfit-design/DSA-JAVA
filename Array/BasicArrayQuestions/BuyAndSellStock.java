@@ -22,7 +22,7 @@ class BuyAndSellStock {
                 }
             }
             
-            System.out.println(profit);
+            System.out.println(profit);  
             
      }
 }
